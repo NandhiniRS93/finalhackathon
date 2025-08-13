@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Xray Test Automation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -391,3 +392,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # finalhackathon
 >>>>>>> ec62fc1a749d163bef47677e39600dec43daaa74
+=======
+
+>>>>>>> 9116de506febf38efb16350acce51bd4189f14aa
